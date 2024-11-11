@@ -1,17 +1,17 @@
 # Hello, I'm Allan Hidalgo
 <a href="https://linkedin.com/in/allanhidalgob"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+I am a passionate IT professional with a strong background in network engineering and cybersecurity, currently pursuing a Master’s in Cybersecurity at IMF Smart Education in Madrid. With over 5 years of experience in the tech industry.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Throughout my career, I’ve honed my expertise in network protocols (TCP, DHCP, DNS, VPN, Firewall) and starting with security operations such as Penetration Testing, Cyber Threat Hunting using KQL on KC7, and Incident Response. I hold multiple certifications, including Microsoft SC-900 and eJPTv2, and have actively contributed to projects, mentoring, and training within my teams.
+
+My goal is to continue developing my skills in cybersecurity, particularly in Ethical Hacking (Red Team) and Security Analysis (Blue Team), with a focus on ethical hacking, threat analysis, vulnerability management, and advanced incident response.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey and passion with computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst or becoming a Junior Pentester.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -23,7 +23,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -46,7 +45,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
