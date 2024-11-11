@@ -1,4 +1,4 @@
-# Hello, I'm Allan Hidalgo
+# Hello, I'm Allan Hidalgo a.k.a The Security Ninja
 <a href="https://linkedin.com/in/allanhidalgob"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a passionate IT professional with a strong background in network engineering and cybersecurity, currently pursuing a Master’s in Cybersecurity at IMF Smart Education in Madrid. With over 5 years of experience in the tech industry.
