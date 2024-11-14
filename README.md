@@ -28,6 +28,12 @@ My journey and passion with computer science has led me to develop a passion for
     <a href="https://www.wireshark.org/"> <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" /> </a> <a href="https://nmap.org/"> <img src="https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=Nmap&logoColor=white" /> </a> 
 </div>
 
+## Frameworks
+<div>
+    <a href="https://www.metasploit.com/"> <img src="https://img.shields.io/badge/-Metasploit-1F75C8?style=for-the-badge&logo=Metasploit&logoColor=white" /> </a>
+    <a href="https://attack.mitre.org/"> <img src="https://img.shields.io/badge/-MITRE%20ATT%26CK-5A9FDF?style=for-the-badge&logo=MITRE&logoColor=white" /> </a>
+</div>
+
 ## Web Application Security
 <div> 
     <a href="https://portswigger.net/burp"> <img src="https://img.shields.io/badge/-BurpSuite-FF6600?style=for-the-badge&logo=Burp-Suite&logoColor=white" /> </a> 
@@ -37,7 +43,6 @@ My journey and passion with computer science has led me to develop a passion for
 ## Penetration Testing
 <div> 
     <a href="https://www.kali.org/"> <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=Kali-Linux&logoColor=white" /> </a> 
-    <a href="https://www.metasploit.com/"> <img src="https://img.shields.io/badge/-Metasploit-1F75C8?style=for-the-badge&logo=Metasploit&logoColor=white" /> </a> 
     <a href="https://github.com/vanhauser-thc/thc-hydra"> <img src="https://img.shields.io/badge/-Hydra-FF0000?style=for-the-badge&logo=GitHub&logoColor=white" /> </a> 
 </div>
 
@@ -54,7 +59,7 @@ My journey and passion with computer science has led me to develop a passion for
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-eJPTv2-000000?style=for-the-badge&logo=INE&logoColor=white" />
-<img src="https://img.shields.io/badge/-SC--900-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
+<a href="https://certs.ine.com/653a5268-f0e9-422f-9554-29c7068dfd11#acc.OMWAzQro"><img src="https://img.shields.io/badge/-eJPTv2-000000?style=for-the-badge&logo=INE&logoColor=white" /> </a>
+<a href="https://learn.microsoft.com/en-us/users/allanhidalgo-2563/credentials/6fb8ca7f89920af8?ref=https%3A%2F%2Fwww.linkedin.com%2F"><img src="https://img.shields.io/badge/-SC--900-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
 </div>
 
