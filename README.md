@@ -21,8 +21,6 @@ My journey and passion with computer science has led me to develop a passion for
 | HackTheBox VM Walkthroughs                      | <a href="https://cybersn0w.notion.site/HackTheBox-VM-Walkthroughs-13e632ded6a480bbbabbe1638f06d66a">HackTheBox VM Walkthroughs                  </a>|
 | TryHackMe TCM Linux PrivEsc VM Walkthroughs     | <a href="https://cybersn0w.notion.site/HackTheBox-VM-Walkthroughs-13e632ded6a480bbbabbe1638f06d66a">TryHackMe TCM Linux PrivEsc VM Walkthroughs </a>|
 
-## Tools
-
 ## Network Analysis
 <div> 
     <a href="https://www.wireshark.org/"> <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" /> </a> <a href="https://nmap.org/"> <img src="https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=Nmap&logoColor=white" /> </a> 
