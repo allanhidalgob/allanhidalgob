@@ -23,19 +23,34 @@ My journey and passion with computer science has led me to develop a passion for
 
 ## Tools
 
-### Network
+## Network Analysis
 <div> 
-    <a href="https://nmap.org/"> <img src="https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=Nmap&logoColor=white" /> </a> 
+    <a href="https://www.wireshark.org/"> <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" /> </a> <a href="https://nmap.org/"> <img src="https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=Nmap&logoColor=white" /> </a> 
+</div>
+
+## Web Application Security
+<div> 
     <a href="https://portswigger.net/burp"> <img src="https://img.shields.io/badge/-BurpSuite-FF6600?style=for-the-badge&logo=Burp-Suite&logoColor=white" /> </a> 
+    <a href="https://github.com/ffuf/ffuf"> <img src="https://img.shields.io/badge/-ffuf-000000?style=for-the-badge&logo=GitHub&logoColor=white" /> </a> 
+</div>
+
+## Penetration Testing
+<div> 
     <a href="https://www.kali.org/"> <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=Kali-Linux&logoColor=white" /> </a> 
     <a href="https://www.metasploit.com/"> <img src="https://img.shields.io/badge/-Metasploit-1F75C8?style=for-the-badge&logo=Metasploit&logoColor=white" /> </a> 
     <a href="https://github.com/vanhauser-thc/thc-hydra"> <img src="https://img.shields.io/badge/-Hydra-FF0000?style=for-the-badge&logo=GitHub&logoColor=white" /> </a> 
-    <a href="https://github.com/ffuf/ffuf"> <img src="https://img.shields.io/badge/-ffuf-000000?style=for-the-badge&logo=GitHub&logoColor=white" /> </a> 
-    <a href="https://www.openwall.com/john/"> <img src="https://img.shields.io/badge/-John%20the%20Ripper-DAA520?style=for-the-badge&logo=GitHub&logoColor=white" /> </a> 
-    <a href="https://hashcat.net/hashcat/"> <img src="https://img.shields.io/badge/-Hashcat-800080?style=for-the-badge&logo=Hashcat&logoColor=white" /> </a> 
-    <a href="https://www.tenable.com/products/nessus"> <img src="https://img.shields.io/badge/-Nessus-0096D6?style=for-the-badge&logo=Tenable&logoColor=white" /> </a> 
 </div>
 
+## Password Cracking
+<div> 
+    <a href="https://www.openwall.com/john/"> <img src="https://img.shields.io/badge/-John%20the%20Ripper-DAA520?style=for-the-badge&logo=GitHub&logoColor=white" /> </a> 
+    <a href="https://hashcat.net/hashcat/"> <img src="https://img.shields.io/badge/-Hashcat-800080?style=for-the-badge&logo=Hashcat&logoColor=white" /> </a> 
+</div>
+
+## Vulnerability Scanning
+<div> 
+    <a href="https://www.tenable.com/products/nessus"> <img src="https://img.shields.io/badge/-Nessus-0096D6?style=for-the-badge&logo=Tenable&logoColor=white" /> </a> 
+</div>
 
 ## Certifications
 <div>
