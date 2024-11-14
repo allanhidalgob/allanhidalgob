@@ -20,9 +20,6 @@ My journey and passion with computer science has led me to develop a passion for
 | TCM Linux Privilege Escalation Course Notes     | <a href="https://cybersn0w.notion.site/Linux-Privilege-Escalation-14c1cec98705434db23d701756bce7e4">Linux Privilege Escalation                  </a>|
 | HackTheBox VM Walkthroughs                      | <a href="https://cybersn0w.notion.site/HackTheBox-VM-Walkthroughs-13e632ded6a480bbbabbe1638f06d66a">HackTheBox VM Walkthroughs                  </a>|
 | TryHackMe TCM Linux PrivEsc VM Walkthroughs     | <a href="https://cybersn0w.notion.site/HackTheBox-VM-Walkthroughs-13e632ded6a480bbbabbe1638f06d66a">TryHackMe TCM Linux PrivEsc VM Walkthroughs </a>|
-<! --| Incident Response Planning and Execution        | SOC Automation Lab|
-| Case Management with TheHive                    | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation  | SOC Automation Lab|-->
 
 ## Tools
 
@@ -31,18 +28,6 @@ My journey and passion with computer science has led me to develop a passion for
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
-<! --### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>-->
 
 ## Certifications
 <div>
@@ -50,6 +35,3 @@ My journey and passion with computer science has led me to develop a passion for
 <img src="https://img.shields.io/badge/-SC--900-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
-<! --## Projects
-- Detection Lab
-- SOC Automation Project-->
