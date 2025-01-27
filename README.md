@@ -1,4 +1,4 @@
-# Allan Hidalgo a.k.a The Security Ninja
+# Allan Hidalgo a.k.a sn0wsecurity / The Security Ninja
 <a href="https://linkedin.com/in/allanhidalgob"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a passionate IT professional with a strong background in network engineering and moving towards cybersecurity.
