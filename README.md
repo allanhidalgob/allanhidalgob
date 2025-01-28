@@ -23,7 +23,7 @@ My journey and passion with computer science has led me to develop a passion for
 
 ## Network Analysis
 <div> 
-    <a href="https://www.wireshark.org/"> <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" /> </a> <a href="https://nmap.org/"> <img src="https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=Nmap&logoColor=white" /> </a> 
+    <a href="https://www.wireshark.org/"> <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" /> </a> <a href="https://nmap.org/"> <img src="https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=Nmap&logoColor=white" /> </a> <a href="https://www.tcpdump.org/"> <img src="https://img.shields.io/badge/-tcpdump-004B97?style=for-the-badge&logo=Linux&logoColor=white" /> </a>
 </div>
 
 ## Frameworks
@@ -53,6 +53,22 @@ My journey and passion with computer science has led me to develop a passion for
 ## Vulnerability Scanning
 <div> 
     <a href="https://www.tenable.com/products/nessus"> <img src="https://img.shields.io/badge/-Nessus-0096D6?style=for-the-badge&logo=Tenable&logoColor=white" /> </a> 
+</div>
+
+## SIEM and Detection
+<div>
+    <a href="https://www.snort.org/">
+        <img src="https://img.shields.io/badge/-Snort-FF0000?style=for-the-badge&logo=Snort&logoColor=white" />
+    </a>
+    <a href="https://www.ibm.com/qradar">
+        <img src="https://img.shields.io/badge/-QRadar-006699?style=for-the-badge&logo=IBM&logoColor=white" />
+    </a>
+    <a href="https://www.splunk.com/">
+        <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
+    </a>
+    <a href="https://learn.microsoft.com/en-us/azure/sentinel/">
+        <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+    </a>
 </div>
 
 ## Certifications
