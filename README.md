@@ -17,9 +17,9 @@ My journey and passion with computer science has led me to develop a passion for
 |-------------------------------------------------|------------------------------|
 | TCM Practical Ethical Hacking Course Notes      | IN PROGRESS                  |
 | TCM Windows Privilege Escalation Course Notes   | IN PROGRESS                  |
-| TCM Linux Privilege Escalation Course Notes     | <a href="https://cybersn0w.notion.site/Linux-Privilege-Escalation-14c1cec98705434db23d701756bce7e4">Linux Privilege Escalation                  </a>|
-| HackTheBox VM Walkthroughs                      | <a href="https://cybersn0w.notion.site/HackTheBox-VM-Walkthroughs-13e632ded6a480bbbabbe1638f06d66a">HackTheBox VM Walkthroughs                  </a>|
-| TryHackMe TCM Linux PrivEsc VM Walkthroughs     | <a href="https://cybersn0w.notion.site/HackTheBox-VM-Walkthroughs-13e632ded6a480bbbabbe1638f06d66a">TryHackMe TCM Linux PrivEsc VM Walkthroughs </a>|
+| TCM Linux Privilege Escalation Course Notes     | <a href="https://sn0wsecurity.notion.site/Linux-Privilege-Escalation-14c1cec98705434db23d701756bce7e4">Linux Privilege Escalation                  </a>|
+| HackTheBox VM Walkthroughs                      | <a href="https://sn0wsecurity.notion.site/HackTheBox-VM-Walkthroughs-13e632ded6a480bbbabbe1638f06d66a">HackTheBox VM Walkthroughs                  </a>|
+| TryHackMe TCM Linux PrivEsc VM Walkthroughs     | <a href="https://sn0wsecurity.notion.site/Linux-Privilege-Escalation-Course-Machines-13c632ded6a48080a1b0cc1e5addf2c0">TryHackMe TCM Linux PrivEsc VM Walkthroughs </a>|
 
 ## Network Analysis
 <div> 
